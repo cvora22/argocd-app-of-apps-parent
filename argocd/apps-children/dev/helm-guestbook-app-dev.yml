@@ -11,6 +11,6 @@ spec:
     server: https://kubernetes.default.svc
   project: appbundle-project-dev
   source:
-    path: kustomized_helm/overlays/dev
+    path: kustomized_helm/
     repoURL: https://github.com/cvora22/argocd-app-of-apps-child-guestbook.git
     targetRevision: HEAD

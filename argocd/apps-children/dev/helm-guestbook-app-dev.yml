@@ -15,4 +15,4 @@ spec:
     repoURL: https://github.com/cvora22/argocd-app-of-apps-child-guestbook.git
     targetRevision: HEAD
     plugin:
-      name: kustomize-helm-ver5
+      name: kustomize-helm-ver6
